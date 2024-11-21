@@ -2,7 +2,7 @@
 
 ## Člani skupine
 - **Žan Zrimšek:** 63220372
-- **Matija Lešnjak:** 
+- **Matija Lešnjak:** 63220190
 
 ---
 
