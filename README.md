@@ -30,7 +30,7 @@ Pri razvoju sva uporabila naslednje tehnologije:
    - Uporabniški vmesnik za osnovne operacije (*, +, -, /).
    - Možnost vnosa števil in prikaza rezultata na zaslonu.
 
-2. **Drugi zaslon: Pretvorbe merskih enot**:
+2. **Drugi zaslon: Pretvorbe merskih enot (TBD)**:
    - Dodatne funkcionalnosti za pretvorbo merskih enot (npr. dolžina, teža, temperatura).
    - Možnost izbire tipa pretvorbe in prikaz rezultata.
 
